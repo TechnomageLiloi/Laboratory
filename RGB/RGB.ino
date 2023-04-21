@@ -20,7 +20,7 @@ void loop() {
   int red = random(0, 255);
   int green = random(0, 255);
   int blue = random(0, 255);
-atoi()
+
   sprintf(buffer, "RGB: %d / %d / %d", red, green, blue);
   Serial.println(buffer);
 
