@@ -1,6 +1,5 @@
 /* Program: ButtonState
  * Author: Anton Liloi Moskalenko
- * GMT timestamp: 2023-04-20 14:47:10
 */
 
 int pinLed = 13;

@@ -1,7 +1,6 @@
 /* 
 Program: Potentiometer
 Author: Anton Liloi Moskalenko
-GMT timestamp: 2023-04-20 22:46:10
 */
 
 int pinLed = 9;
